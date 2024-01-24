@@ -9,10 +9,10 @@ keywords = ["gamedev", "bevy", "eventlistener", "callbacks"]
 categories = ["game-engines", "rendering"]
 
 [dependencies]
-bevy_ecs = { git = 'https://github.com/ickshonpe/bevy/', rev = '655da808728d14e8bb025b246242d15b5ba6f505' }
-bevy_app = { git = 'https://github.com/ickshonpe/bevy/', rev = '655da808728d14e8bb025b246242d15b5ba6f505' }
-bevy_utils = { git = 'https://github.com/ickshonpe/bevy/', rev = '655da808728d14e8bb025b246242d15b5ba6f505' }
-bevy_hierarchy = { git = 'https://github.com/ickshonpe/bevy/', rev = '655da808728d14e8bb025b246242d15b5ba6f505' }
+bevy_ecs = { git = 'https://github.com/ickshonpe/bevy/', rev = 'eff47e6d25e56d747df45af4ba33e9f160efe87d' }
+bevy_app = { git = 'https://github.com/ickshonpe/bevy/', rev = 'eff47e6d25e56d747df45af4ba33e9f160efe87d' }
+bevy_utils = { git = 'https://github.com/ickshonpe/bevy/', rev = 'eff47e6d25e56d747df45af4ba33e9f160efe87d' }
+bevy_hierarchy = { git = 'https://github.com/ickshonpe/bevy/', rev = 'eff47e6d25e56d747df45af4ba33e9f160efe87d' }
 
 [features]
 default = ["trace"]

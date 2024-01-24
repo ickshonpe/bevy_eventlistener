@@ -19,7 +19,7 @@ bevy_eventlistener_core = { path = "crates/bevy_eventlistener_core", version = "
 bevy_eventlistener_derive = { path = "crates/bevy_eventlistener_derive", version = "0.6.1" }
 
 [dev-dependencies]
-bevy = { git = 'https://github.com/ickshonpe/bevy/', rev = '655da808728d14e8bb025b246242d15b5ba6f505', default-features = false, features = [
+bevy = { git = 'https://github.com/ickshonpe/bevy/', rev = 'eff47e6d25e56d747df45af4ba33e9f160efe87d', default-features = false, features = [
     "bevy_winit",
     "x11",
 ] }
